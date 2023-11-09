@@ -17,7 +17,7 @@ A brief overview highlighting my role as a Power Platform developer at a law fir
   - Improved efficiency and control in email access management.
 - **Images:**
 
-  ![Email Access UI](/Images/EmailAccessUI.png) ![Email Access Flow](/Images/EmailAccessFlow.png)
+  ![Email Access UI](/Images/1EmailAccessUI.png) ![Email Access Flow](/Images/EmailAccessFlow.png)
 
 ### Project 2: Active Directory Group Approval Automation
 - **Objective:** Simplify Active Directory group memberships.
