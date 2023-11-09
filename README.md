@@ -41,6 +41,9 @@ A brief overview highlighting my role as a Power Platform developer at a law fir
   - Power Automate to schedule meetings over two months.
 - **Impact:**
   - Improved new hire onboarding experience and process efficiency.
+- **Images:**
+
+  ![Onboarding UI](/Images/OnboardUI.png) ![Onboarding Flow](/Images/OnboardFlow.png)
 
 ### Project 4: E3 License Utilization API
 - **Objective:** Monitor and manage E3 license allocation.
