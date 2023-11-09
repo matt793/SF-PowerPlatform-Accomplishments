@@ -24,7 +24,7 @@ A brief overview highlighting my role as a Power Platform developer at a law fir
 - **Application:**
   - Lists and descriptions of key Active Directory groups.
   - Simplified user account selection and submission.
-- **Approval Process:**
+- **Approval Process:** 
   - IT representative approval via Power Automate.
   - PowerShell scripting post-approval.
 - **Impact:**
