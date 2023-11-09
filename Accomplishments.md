@@ -82,5 +82,3 @@ A brief overview highlighting my role as a Power Platform developer at a law fir
 - **Impact:**
   - Comprehensive onboarding schedules for HR and efficient new hire transitions.
 
-## Conclusion
-A reflection on the positive changes these projects have brought to the firm, emphasizing enhanced operational efficiency, security, and satisfaction.
