@@ -1,7 +1,7 @@
 # Power Platform Projects Portfolio
 
 ## Introduction
-A brief overview highlighting my role as a Power Platform developer at a law firm, focusing on digital transformation and process automation.
+A brief overview highlighting my role as a Power Platform developer at Spencer Fane law firm, focusing on digital transformation and process automation.
 
 ## Projects Overview
 
@@ -53,6 +53,9 @@ A brief overview highlighting my role as a Power Platform developer at a law fir
   - Advanced JSON parsing for data analysis.
 - **Impact:**
   - Better license management aiding cost-efficiency and service continuity.
+- **Images:**
+
+  ![API Flow](/Images/API_Flow.png) ![API Email](/Images/API_Email.png)
 
 ### Project 5: Power Virtual Agents Chatbot
 - **Objective:** Enhance IT support with a virtual assistant.
@@ -63,6 +66,9 @@ A brief overview highlighting my role as a Power Platform developer at a law fir
   - Power Automate for backend automation connectivity.
 - **Impact:**
   - Improved IT support efficiency and user satisfaction.
+- **Images:**
+
+  ![PVA ChatBot](/Images/ChatBot.png)
 
 ### Project 6: Accounts Receivable Hold Management Automation
 - **Objective:** Improve management of client case AR holds.
