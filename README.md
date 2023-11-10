@@ -1,7 +1,7 @@
 # Power Platform Projects Portfolio
 
 ## Introduction
-A brief overview highlighting my role as a Power Platform developer at a law firm, focusing on digital transformation and process automation.
+A brief overview highlighting my role as a Power Platform developer at Spencer Fane law firm, focusing on digital transformation and process automation.
 
 ## Projects Overview
 
