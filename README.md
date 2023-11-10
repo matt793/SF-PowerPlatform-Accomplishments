@@ -78,6 +78,9 @@ A brief overview highlighting my role as a Power Platform developer at Spencer F
   - Senior admin approval process with Power Automate.
 - **Impact:**
   - Better financial management and operational efficiency.
+- **Images:**
+
+  ![AR Hold UI](/Images/AR_UI.png) ![AR_Flow](/Images/AR_Flow.png)
 
 ### Project 7: IT Technical Assessment for Office Visits
 - **Objective:** Efficiently gather IT technical assessments for resource allocation.
@@ -87,6 +90,9 @@ A brief overview highlighting my role as a Power Platform developer at Spencer F
   - Inform resource planning and ticket resolution.
 - **Impact:**
   - Informed IT support decision-making and resource distribution.
+- **Images:**
+
+  ![Office UI](/Images/Office_UI.png) ![Office Teams Message](/Images/Office_Message.png)
 
 ### Project 8: Onboarding Schedule Coordination Automation
 - **Objective:** Enhance HR's onboarding schedule review process.
