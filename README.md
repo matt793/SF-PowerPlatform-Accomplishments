@@ -118,7 +118,7 @@ A brief overview highlighting my role as a Power Platform developer at Spencer F
 
 ---
 
-### Project 8: Onboarding Schedule Coordination Automation
+### Project 8: Onboarding Schedule Report Automation
 - **Objective:** Enhance HR's onboarding schedule review process.
 - **Application:**
   - User email and date range input for schedule compilation.
@@ -126,3 +126,6 @@ A brief overview highlighting my role as a Power Platform developer at Spencer F
   - Event extraction and email preparation with Power Automate.
 - **Impact:**
   - Comprehensive onboarding schedules for HR and efficient new hire transitions.
+- **Images:**
+
+  ![Report Flow](/Images/GRAB_Flow.png)
