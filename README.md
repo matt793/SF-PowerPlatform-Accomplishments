@@ -21,7 +21,7 @@ Each project showcases unique solutions and innovations in the Power Platform sp
   
   <img src="/Images/1EmailAccessUI.png" width="320" height="180" alt="Email Access UI">  
   
-  <img src="/Images/EmailAccessFlow.png" width="360" height="480" alt="Email Access Flow">
+  <img src="/Images/EmailAccessFlow.png" width="200" height="380" alt="Email Access Flow">
 
 ---
 
@@ -34,7 +34,7 @@ Each project showcases unique solutions and innovations in the Power Platform sp
   
   <img src="/Images/AD_UI.png" width="320" height="180" alt="AD Access">  
   
-  <img src="/Images/AD_Flow.png" width="360" height="480" alt="AD Flow">
+  <img src="/Images/AD_Flow.png" width="200" height="380" alt="AD Flow">
 
 ---
 
@@ -47,7 +47,7 @@ Each project showcases unique solutions and innovations in the Power Platform sp
   
   <img src="/Images/OnboardUI.png" width="320" height="180" alt="Onboarding UI">  
   
-  <img src="/Images/OnboardFlow.png" width="360" height="480" alt="Onboarding Flow">
+  <img src="/Images/OnboardFlow.png" width="200" height="380" alt="Onboarding Flow">
 
 ---
 
@@ -60,7 +60,7 @@ Each project showcases unique solutions and innovations in the Power Platform sp
   
   <img src="/Images/API_Flow.png" width="320" height="180" alt="API Flow">  
   
-  <img src="/Images/API_Email.png" width="360" height="480" alt="API Email">
+  <img src="/Images/API_Email.png" width="200" height="380" alt="API Email">
 
 ---
 
@@ -92,7 +92,7 @@ Each project showcases unique solutions and innovations in the Power Platform sp
   
   <img src="/Images/AR_UI.png" width="320" height="180" alt="AR Hold UI">  
   
-  <img src="/Images/AR_Flow.png" width="360" height="480" alt="AR Flow">
+  <img src="/Images/AR_Flow.png" width="200" height="380" alt="AR Flow">
 
 ---
 
@@ -116,6 +116,6 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Comprehensive schedules for HR, efficient new hire transitions.
 - **Gallery:**  
   
-  <img src="/Images/GRAB_Flow.png" width="360" height="480" alt="Office Teams Message">
+  <img src="/Images/GRAB_Flow.png" width="200" height="380" alt="Office Teams Message">
 
 ---
