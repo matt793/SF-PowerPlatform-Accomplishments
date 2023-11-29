@@ -19,9 +19,9 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Efficiency and control in email access management.
 - **Gallery:**  
   
-  <img src="/Images/1EmailAccessUI.png" width="320" height="180" alt="Email Access UI">  
+  <img src="/Images/1EmailAccessUI.png" width="320" height="200" alt="Email Access UI">  
   
-  <img src="/Images/EmailAccessFlow.png" width="200" height="380" alt="Email Access Flow">
+  <img src="/Images/EmailAccessFlow.png" width="210" height="360" alt="Email Access Flow">
 
 ---
 
@@ -32,9 +32,9 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Enhanced group management efficiency and security.
 - **Gallery:**  
   
-  <img src="/Images/AD_UI.png" width="320" height="180" alt="AD Access">  
+  <img src="/Images/AD_UI.png" width="320" height="200" alt="AD Access">  
   
-  <img src="/Images/AD_Flow.png" width="200" height="380" alt="AD Flow">
+  <img src="/Images/AD_Flow.png" width="210" height="360" alt="AD Flow">
 
 ---
 
@@ -45,9 +45,9 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Improved onboarding experience and efficiency.
 - **Gallery:**  
   
-  <img src="/Images/OnboardUI.png" width="320" height="180" alt="Onboarding UI">  
+  <img src="/Images/OnboardUI.png" width="320" height="200" alt="Onboarding UI">  
   
-  <img src="/Images/OnboardFlow.png" width="200" height="380" alt="Onboarding Flow">
+  <img src="/Images/OnboardFlow.png" width="210" height="360" alt="Onboarding Flow">
 
 ---
 
@@ -58,9 +58,9 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Improved license management and cost-efficiency.
 - **Gallery:**  
   
-  <img src="/Images/API_Flow.png" width="320" height="180" alt="API Flow">  
+  <img src="/Images/API_Flow.png" width="320" height="200" alt="API Flow">  
   
-  <img src="/Images/API_Email.png" width="200" height="380" alt="API Email">
+  <img src="/Images/API_Email.png" width="210" height="360" alt="API Email">
 
 ---
 
@@ -79,7 +79,7 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Enhanced IT support and user satisfaction.
 - **Gallery:**  
   
-  <img src="/Images/ChatBot.png" width="320" height="180" alt="PVA ChatBot">
+  <img src="/Images/ChatBot.png" width="320" height="200" alt="PVA ChatBot">
 
 ---
 
@@ -90,9 +90,9 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Improved financial management and operational efficiency.
 - **Gallery:**  
   
-  <img src="/Images/AR_UI.png" width="320" height="180" alt="AR Hold UI">  
+  <img src="/Images/AR_UI.png" width="320" height="200" alt="AR Hold UI">  
   
-  <img src="/Images/AR_Flow.png" width="200" height="380" alt="AR Flow">
+  <img src="/Images/AR_Flow.png" width="210" height="360" alt="AR Flow">
 
 ---
 
@@ -103,9 +103,9 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Informed decision-making and resource distribution.
 - **Gallery:**  
   
-  <img src="/Images/Office_UI.png" width="320" height="180" alt="Office UI">  
+  <img src="/Images/Office_UI.png" width="320" height="200" alt="Office UI">  
   
-  <img src="/Images/Office_Message.png" width="320" height="180" alt="Office Teams Message">
+  <img src="/Images/Office_Message.png" width="320" height="200" alt="Office Teams Message">
 
 ---
 
@@ -116,6 +116,6 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Comprehensive schedules for HR, efficient new hire transitions.
 - **Gallery:**  
   
-  <img src="/Images/GRAB_Flow.png" width="200" height="380" alt="Office Teams Message">
+  <img src="/Images/GRAB_Flow.png" width="320" height="200" alt="Office Teams Message">
 
 ---
