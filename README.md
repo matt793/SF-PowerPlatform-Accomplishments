@@ -3,7 +3,7 @@
 ## Introduction
 > **Spencer Fane Law Firm**  
 > Role: Power Platform Developer  
-> Focus: Digital Transformation with Power Apps,  and Process Automation with Power Automate
+> Focus: Digital Transformation with Power Apps, and Process Automation with Power Automate
 
 ---
 
@@ -19,9 +19,9 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Efficiency and control in email access management.
 - **Gallery:**  
   
-  ![Email Access UI](/Images/1EmailAccessUI.png)  
+  <img src="/Images/1EmailAccessUI.png" width="320" height="180" alt="Email Access UI">  
   
-  ![Email Access Flow](/Images/EmailAccessFlow.png)
+  <img src="/Images/EmailAccessFlow.png" width="320" height="180" alt="Email Access Flow">
 
 ---
 
@@ -32,9 +32,9 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Enhanced group management efficiency and security.
 - **Gallery:**  
   
-  ![AD Access](/Images/AD_UI.png)  
+  <img src="/Images/AD_UI.png" width="320" height="180" alt="AD Access">  
   
-  ![AD Flow](/Images/AD_Flow.png)
+  <img src="/Images/AD_Flow.png" width="320" height="180" alt="AD Flow">
 
 ---
 
@@ -45,9 +45,9 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Improved onboarding experience and efficiency.
 - **Gallery:**  
   
-  ![Onboarding UI](/Images/OnboardUI.png)  
+  <img src="/Images/OnboardUI.png" width="320" height="180" alt="Onboarding UI">  
   
-  ![Onboarding Flow](/Images/OnboardFlow.png)
+  <img src="/Images/OnboardFlow.png" width="320" height="180" alt="Onboarding Flow">
 
 ---
 
@@ -58,9 +58,9 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Improved license management and cost-efficiency.
 - **Gallery:**  
   
-  ![API Flow](/Images/API_Flow.png)  
+  <img src="/Images/API_Flow.png" width="320" height="180" alt="API Flow">  
   
-  ![API Email](/Images/API_Email.png)
+  <img src="/Images/API_Email.png" width="320" height="180" alt="API Email">
 
 ---
 
@@ -79,7 +79,7 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Enhanced IT support and user satisfaction.
 - **Gallery:**  
   
-  ![PVA ChatBot](/Images/ChatBot.png)
+  <img src="/Images/ChatBot.png" width="320" height="180" alt="PVA ChatBot">
 
 ---
 
@@ -90,9 +90,9 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Improved financial management and operational efficiency.
 - **Gallery:**  
   
-  ![AR Hold UI](/Images/AR_UI.png)  
+  <img src="/Images/AR_UI.png" width="320" height="180" alt="AR Hold UI">  
   
-  ![AR_Flow](/Images/AR_Flow.png)
+  <img src="/Images/AR_Flow.png" width="320" height="180" alt="AR Flow">
 
 ---
 
@@ -103,9 +103,13 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Informed decision-making and resource distribution.
 - **Gallery:**  
   
-  ![Office UI](/Images/Office_UI.png)  
+  <img src="/Images/Office_UI.png" width="320" height="180" alt="Office UI">  
   
-  ![Office Teams Message](/Images/Office_Message.png)
+  <img src="/Images/Office_Message.png" width="320" height="180" alt="Office Teams Message">
+
+---
+
+### 🌟 Project 8: Onboarding Schedule Report Automation
 
 ---
 
@@ -116,6 +120,6 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Impact:** Comprehensive schedules for HR, efficient new hire transitions.
 - **Gallery:**  
   
-  ![Report Flow](/Images/GRAB_Flow.png)
+  <img src="/Images/GRAB_Flow.png" width="320" height="180" alt="Office Teams Message">
 
 ---
