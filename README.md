@@ -3,7 +3,7 @@
 ## Introduction
 > **Spencer Fane Law Firm**  
 > Role: Power Platform Developer  
-> Focus: Digital Transformation with Power Apps, and Process Automation with Power Automate
+> Focus: Digital Transformation with Power Apps,  and Process Automation with Power Automate
 
 ---
 
@@ -18,10 +18,8 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Workflow:** Automated emails via Power Automate, PowerShell integration.
 - **Impact:** Efficiency and control in email access management.
 - **Gallery:**  
-  
-  <img src="/Images/1EmailAccessUI.png" width="320" height="200" alt="Email Access UI">  
-  
-  <img src="/Images/EmailAccessFlow.png" width="235" height="360" alt="Email Access Flow">
+  ![Email Access UI](/Images/1EmailAccessUI.png)  
+  ![Email Access Flow](/Images/EmailAccessFlow.png)
 
 ---
 
@@ -31,10 +29,8 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Approval Process:** IT representative approval, PowerShell scripting.
 - **Impact:** Enhanced group management efficiency and security.
 - **Gallery:**  
-  
-  <img src="/Images/AD_UI.png" width="320" height="200" alt="AD Access">  
-  
-  <img src="/Images/AD_Flow.png" width="235" height="360" alt="AD Flow">
+  ![AD Access](/Images/AD_UI.png)  
+  ![AD Flow](/Images/AD_Flow.png)
 
 ---
 
@@ -44,10 +40,8 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Automation:** Power Automate for meeting scheduling.
 - **Impact:** Improved onboarding experience and efficiency.
 - **Gallery:**  
-  
-  <img src="/Images/OnboardUI.png" width="320" height="200" alt="Onboarding UI">  
-  
-  <img src="/Images/OnboardFlow.png" width="235" height="360" alt="Onboarding Flow">
+  ![Onboarding UI](/Images/OnboardUI.png)  
+  ![Onboarding Flow](/Images/OnboardFlow.png)
 
 ---
 
@@ -57,10 +51,8 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Data Handling:** Advanced JSON parsing.
 - **Impact:** Improved license management and cost-efficiency.
 - **Gallery:**  
-  
-  <img src="/Images/API_Flow.png" width="320" height="200" alt="API Flow">  
-  
-  <img src="/Images/API_Email.png" width="235" height="360" alt="API Email">
+  ![API Flow](/Images/API_Flow.png)  
+  ![API Email](/Images/API_Email.png)
 
 ---
 
@@ -78,8 +70,7 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Integration:** Backend automation via Power Automate.
 - **Impact:** Enhanced IT support and user satisfaction.
 - **Gallery:**  
-  
-  <img src="/Images/ChatBot.png" width="320" height="200" alt="PVA ChatBot">
+  ![PVA ChatBot](/Images/ChatBot.png)
 
 ---
 
@@ -89,10 +80,8 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Workflow:** Senior admin approval via Power Automate.
 - **Impact:** Improved financial management and operational efficiency.
 - **Gallery:**  
-  
-  <img src="/Images/AR_UI.png" width="320" height="200" alt="AR Hold UI">  
-  
-  <img src="/Images/AR_Flow.png" width="235" height="360" alt="AR Flow">
+  ![AR Hold UI](/Images/AR_UI.png)  
+  ![AR_Flow](/Images/AR_Flow.png)
 
 ---
 
@@ -102,10 +91,8 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Data Utilization:** Resource planning and ticket resolution.
 - **Impact:** Informed decision-making and resource distribution.
 - **Gallery:**  
-  
-  <img src="/Images/Office_UI.png" width="320" height="200" alt="Office UI">  
-  
-  <img src="/Images/Office_Message.png" width="320" height="200" alt="Office Teams Message">
+  ![Office UI](/Images/Office_UI.png)  
+  ![Office Teams Message](/Images/Office_Message.png)
 
 ---
 
@@ -115,7 +102,6 @@ Each project showcases unique solutions and innovations in the Power Platform sp
 - **Automation:** Event extraction and email preparation via Power Automate.
 - **Impact:** Comprehensive schedules for HR, efficient new hire transitions.
 - **Gallery:**  
-  
-  <img src="/Images/GRAB_Flow.png" width="235" height="360" alt="Office Teams Message">
+  ![Report Flow](/Images/GRAB_Flow.png)
 
 ---
