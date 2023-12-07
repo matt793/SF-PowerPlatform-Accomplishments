@@ -105,3 +105,23 @@ Each project showcases unique solutions and innovations in the Power Platform sp
   ![Report Flow](/Images/GRAB_Flow.png)
 
 ---
+
+### 🌟 Project 9: Azure Policy Country Approval Automation
+
+- **Objective:** Facilitate the secure and compliant addition of new countries to the Azure AD approved policy list.
+- **Key Features:** 
+  - Streamlined approval process for new country additions.
+  - Seamless PowerShell script execution for Azure AD updates.
+  - Intuitive Power App interface for submission of country additions.
+- **Workflow:** 
+  - Power App initiates a country addition request.
+  - Power Automate triggers an approval process, sends notifications to approvers, and awaits their decision.
+  - Once approved, a PowerShell script is executed to update the Azure AD policy with the new country codes.
+- **Impact:** Ensures timely updates to access policies, reduces administrative workload, and maintains compliance with organizational security standards.
+- **Gallery:**  
+  ![Policy Approval UI](/Images/LocationApprovalUI.png)  
+  ![Policy Approval Flow](/Images/LocationApprovalFlow.png)
+
+In this project, Power Automate orchestrates the addition of new countries to Azure AD's policy list through a managed approval process. The flow initiates when a country addition request is made, setting up variables for user details and policy information. An approval email is dispatched, and upon affirmative response, the automation schedules the update using the start date provided. It retrieves and compiles necessary data from SharePoint, where policy details are maintained, and uses a PowerShell script to update Azure AD policy accordingly. This script, leveraging Microsoft Graph, automates the authorization and update process, ensuring secure and efficient policy management.
+
+---
