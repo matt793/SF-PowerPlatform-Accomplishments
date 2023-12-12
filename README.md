@@ -3,7 +3,13 @@
 ## Introduction
 > **Spencer Fane Law Firm**  
 > Role: Power Platform Developer  
-> Focus: Digital Transformation with Power Apps,  and Process Automation with Power Automate
+> Focus: Digital Transformation with Power Apps, and Process Automation with Power Automate
+
+---
+
+## Daily personal goal with this platform
+- it's been a personal goal of mine to improve the functionality of how the firm gets work done. Automation is critical to me and it is necessary to stay competitive as an organization.
+- it's also been a personal goal of mine to evangelize the power platform to help others create and make their projects. I am very focused on achieving automations but at the same time I don't believe in gatekeeping and I have shared my knowledge with others so that they could also finish their projects.
 
 ---
 
