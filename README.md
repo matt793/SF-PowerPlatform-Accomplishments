@@ -126,7 +126,7 @@ Each project showcases unique solutions and innovations in the Power Platform sp
   - Once approved, a PowerShell script is executed to update the Azure AD policy with the new country codes.
 - **Impact:** Ensures timely updates to access policies, reduces administrative workload, and maintains compliance with organizational security standards.
 - **Gallery:**  
-  ![Policy Approval UI](/Images/LocationApprovalUI.png)  
+  ![Policy Approval UI](/Images/LocationApprovalUI1.png)  
   ![Policy Approval Flow](/Images/LocationApprovalFlow.png)
   ![Policy Approval UI Calendar](/Images/LocationApprovalUI2.png)    
 
